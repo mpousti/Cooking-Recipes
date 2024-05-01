@@ -1,0 +1,48 @@
+.create {
+	height: 100vh;
+}
+.create form {
+	display: block;
+}
+.create h1 {
+	margin-top: 0;
+}
+.create label span {
+	display: block;
+	margin: 30px 0px 10px;
+}
+
+.create .form input {
+	width: 200px;
+	height: 2em;
+	margin: 15px auto;
+	border: 2px solid rgb(28, 34, 39);
+}
+form label {
+	display: block;
+	margin: 15px auto;
+}
+form label input {
+	padding: 0.5em;
+}
+textarea {
+	min-width: 50%;
+	min-height: 8em;
+	padding: 0.5rem;
+	align-content: start;
+}
+
+form .btn {
+	font-size: large;
+	font-weight: 700;
+	padding: 0.3em 0.5em;
+	border-radius: 8px;
+}
+.create form span {
+	font-weight: 600;
+	font-size: large;
+}
+
+.create .btn {
+	margin-left: 20px;
+}
