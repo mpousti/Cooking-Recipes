@@ -6,12 +6,7 @@ import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCICg8B62jLFgui3Zm-Gh5ZousYEoopEc0",
-  authDomain: "cookingrecipe-ded45.firebaseapp.com",
-  projectId: "cookingrecipe-ded45",
-  storageBucket: "cookingrecipe-ded45.appspot.com",
-  messagingSenderId: "697936993286",
-  appId: "1:697936993286:web:3a1e240d2233d8628ff787"
+  
 };
 
 // Initialize Firebase
